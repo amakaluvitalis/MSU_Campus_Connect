@@ -71,15 +71,13 @@ backend/
 
 ### **Project Setup**
 
-✅ Set up **Django** project and create `ccvenv` virtual environment
-
-✅ Configure **PostgreSQL** as the database
-
-✅ Implement **JWT authentication** (SimpleJWT)
+* [ ] Set up **Django** project and create `ccvenv` virtual environment
+* [ ] Configure **PostgreSQL** as the database
+* [ ] Implement **JWT authentication** (SimpleJWT)
 
 ### **API Development**
 
-✅ Set up **Django REST Framework** (DRF)
+* [ ] Set up **Django REST Framework** (DRF)
 
 ✅ Build CRUD endpoints for:
 
@@ -100,11 +98,10 @@ backend/
 
 ### **Database & ERD Design**
 
-✅ Design **Entity Relationship Diagram (ERD)**
+* [ ] Design **Entity Relationship Diagram (ERD)**
+* [ ] Implement **PostgreSQL models**
 
-✅ Implement **PostgreSQL models**
-
-✅ Optimize with **indexes & JSON fields**
+* [ ] Optimize with **indexes & JSON fields**
 
 ### **Background Task Processing (Celery + Redis)**
 
