@@ -1,0 +1,19 @@
+# Ignore virtual environment
+ccvenv/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment variables
+.env
+
+# Ignore database files (if using SQLite for testing)
+*.sqlite3
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore node modules (if working with React frontend)
+node_modules/
