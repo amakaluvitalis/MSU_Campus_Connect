@@ -2,7 +2,7 @@ import React from "react";
 import { Navbar5 } from "../components/campus_navigation/Navbar5";
 import { Header47 } from "../components/campus_navigation/Header47";
 import { Layout24 } from "../components/campus_navigation/Layout24";
-import { Layout6 } from "../components/campus_navigation/Layout6";
+import { Layout6 } from "../components/campus_navigation/Layout6"; // Layout6 now contains the map
 import { Layout1 } from "../components/campus_navigation/Layout1";
 import { Layout3 } from "../components/campus_navigation/Layout3";
 import { Layout240 } from "../components/campus_navigation/Layout240";
@@ -16,7 +16,7 @@ export default function CampusNavigation() {
       <Navbar5 />
       <Header47 />
       <Layout24 />
-      <Layout6 />
+      <Layout6 /> 
       <Layout1 />
       <Layout3 />
       <Layout240 />

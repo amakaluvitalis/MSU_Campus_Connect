@@ -1,6 +1,11 @@
 "use client";
 
 import React from "react";
+import MapImage from "../../images/female_holding_a_map.jpg";
+import MapImage2 from "../../images/man_showing_directions.jpeg";
+
+
+
 
 export function Layout24() {
   return (
@@ -10,9 +15,8 @@ export function Layout24() {
           <div>
             <div className="rb-5 mb-5 md:mb-6">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                className="size-12"
-                alt="Relume logo"
+                src={MapImage2}
+                className="w-full object-cover"
               />
             </div>
             <h3 className="mb-5 text-4xl font-bold leading-[1.2] md:mb-6 md:text-5xl lg:text-6xl">
@@ -25,11 +29,9 @@ export function Layout24() {
             </p>
           </div>
           <div>
-            <img
-              src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-              className="w-full object-cover"
-              alt="Relume placeholder image"
-            />
+          <img src={MapImage} alt="Female holding a map" 
+          className="w-full object-cover"
+           />
           </div>
         </div>
       </div>

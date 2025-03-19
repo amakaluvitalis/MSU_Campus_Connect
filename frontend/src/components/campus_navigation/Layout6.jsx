@@ -1,6 +1,19 @@
 "use client";
 
 import React from "react";
+import { GoogleMap, LoadScript, MarkerF } from "@react-google-maps/api";
+
+const containerStyle = {
+  width: "100%",
+  height: "400px",
+};
+
+const center = {
+  lat: -1.286389,
+  lng: 36.817223,
+};
+
+const googleMapsApiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY;
 
 export function Layout6() {
   return (
@@ -38,11 +51,11 @@ export function Layout6() {
             </div>
           </div>
           <div>
-            <img
-              src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-              className="w-full object-cover"
-              alt="Relume placeholder image"
-            />
+            <LoadScript googleMapsApiKey={googleMapsApiKey} libraries={["marker"]}>
+              <GoogleMap mapContainerStyle={containerStyle} center={center} zoom={15}>
+              <MarkerF position={center} />
+              </GoogleMap>
+            </LoadScript>
           </div>
         </div>
       </div>
