@@ -8,7 +8,7 @@ import { Event33 } from "../components/event_details/Event33";
 import { Layout1 } from "../components/event_details/Layout1";
 import { Testimonial6 } from "../components/event_details/Testimonial6";
 import { Cta13 } from "../components/event_details/Cta13";
-import { Footer4 } from "../components/event_details/Footer4";
+import { Footer4 } from "../components/home/Footer4";
 
 export default function EventDetails() {
   return (

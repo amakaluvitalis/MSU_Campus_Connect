@@ -7,7 +7,7 @@ import { Layout102 } from "../components/alumni_engagement/Layout102";
 import { Layout10 } from "../components/alumni_engagement/Layout10";
 import { Testimonial13 } from "../components/alumni_engagement/Testimonial13";
 import { Cta1 } from "../components/alumni_engagement/Cta1";
-import { Footer4 } from "../components/alumni_engagement/Footer4";
+import { Footer4 } from "../components/home/Footer4";
 
 export default function AlumniEngagement() {
   return (

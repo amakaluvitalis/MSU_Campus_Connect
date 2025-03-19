@@ -9,8 +9,8 @@ const containerStyle = {
 };
 
 const center = {
-  lat: -1.286389,
-  lng: 36.817223,
+  lat: -0.0022,
+  lng: 34.5986,
 };
 
 const googleMapsApiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY;

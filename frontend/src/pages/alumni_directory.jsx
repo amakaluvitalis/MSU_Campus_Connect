@@ -8,7 +8,7 @@ import { Layout6 } from "../components/alumni_directory/Layout6";
 import { Layout12 } from "../components/alumni_directory/Layout12";
 import { Cta1 } from "../components/alumni_directory/Cta1";
 import { Logo4 } from "../components/alumni_directory/Logo4";
-import { Footer4 } from "../components/alumni_directory/Footer4";
+import { Footer4 } from "../components/home/Footer4";
 
 export default function AlumniDirectory() {
   return (

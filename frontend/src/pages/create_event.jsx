@@ -5,7 +5,7 @@ import { Contact1 } from "../components/create_event/Contact1";
 import { Cta8 } from "../components/create_event/Cta8";
 import { Layout10 } from "../components/create_event/Layout10";
 import { Faq8 } from "../components/create_event/Faq8";
-import { Footer4 } from "../components/create_event/Footer4";
+import { Footer4 } from "../components/home/Footer4";
 
 export default function CreateEvent() {
   return (

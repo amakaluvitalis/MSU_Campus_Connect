@@ -8,7 +8,7 @@ import { Layout3 } from "../components/campus_navigation/Layout3";
 import { Layout240 } from "../components/campus_navigation/Layout240";
 import { Faq9 } from "../components/campus_navigation/Faq9";
 import { Cta13 } from "../components/campus_navigation/Cta13";
-import { Footer4 } from "../components/campus_navigation/Footer4";
+import { Footer4 } from "../components/home/Footer4";
 
 export default function CampusNavigation() {
   return (
