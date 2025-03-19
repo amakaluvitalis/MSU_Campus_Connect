@@ -47,16 +47,8 @@ export function Navbar5() {
       <div className="size-full lg:flex lg:items-center lg:justify-between">
         <div className="lg:flex">
           <div className="flex min-h-16 items-center justify-between px-[5%] md:min-h-18 lg:min-h-full lg:px-0">
-            <a href="#">
-              <img
-                src="https://d22po4pjz3o32e.cloudfront.net/logo-image.svg"
-                alt="Logo image"
-              />
-            </a>
-            <button
-              className="-mr-2 flex size-12 flex-col items-center justify-center lg:hidden"
-              onClick={useActive.toggleMobileMenu}
-            >
+            <a href="#"><img src="https://d22po4pjz3o32e.cloudfront.net/logo-image.svg" alt="Logo image"/></a>
+            <button className="-mr-2 flex size-12 flex-col items-center justify-center lg:hidden" onClick={useActive.toggleMobileMenu} >
               <motion.span
                 className="my-[3px] h-0.5 w-6 bg-black"
                 animate={useActive.animateMobileMenuButtonSpan}
@@ -107,32 +99,14 @@ export function Navbar5() {
             transition={{ duration: 0.4 }}
             className="overflow-auto px-[5%] lg:ml-6 lg:flex lg:items-center lg:px-0 lg:[--height-closed:auto] lg:[--height-open:auto]"
           >
-            <a
-              href="#"
-              className="block py-3 text-md first:pt-7 lg:px-4 lg:py-6 lg:text-base first:lg:pt-6"
-            >
-              Events Hub
-            </a>
-            <a
-              href="#"
-              className="block py-3 text-md first:pt-7 lg:px-4 lg:py-6 lg:text-base first:lg:pt-6"
-            >
-              Networking Zone
-            </a>
-            <a
-              href="#"
-              className="block py-3 text-md first:pt-7 lg:px-4 lg:py-6 lg:text-base first:lg:pt-6"
-            >
-              Campus Map
-            </a>
+        <a href="/events-dashboard" className="block py-3 text-md first:pt-7 lg:px-4 lg:py-6 lg:text-base first:lg:pt-6">Events Hub</a>
+        <a href="#" className="block py-3 text-md first:pt-7 lg:px-4 lg:py-6 lg:text-base first:lg:pt-6">Networking Zone</a>
+        <a href="/campus-navigation" className="block py-3 text-md first:pt-7 lg:px-4 lg:py-6 lg:text-base first:lg:pt-6">Campus Map</a>
             <div
               onMouseEnter={useActive.openOnDesktopDropdownMenu}
               onMouseLeave={useActive.closeOnDesktopDropdownMenu}
             >
-              <button
-                className="flex w-full items-center justify-between gap-x-2 py-3 text-center text-md lg:w-auto lg:flex-none lg:justify-start lg:px-4 lg:py-6 lg:text-base"
-                onClick={useActive.openOnMobileDropdownMenu}
-              >
+              <button className="flex w-full items-center justify-between gap-x-2 py-3 text-center text-md lg:w-auto lg:flex-none lg:justify-start lg:px-4 lg:py-6 lg:text-base" onClick={useActive.openOnMobileDropdownMenu}>
                 <span>Alumni Connect</span>
                 <motion.span
                   variants={{
@@ -171,149 +145,90 @@ export function Navbar5() {
                         <h4 className="text-sm font-semibold leading-[1.3]">
                           Explore More
                         </h4>
-                        <a
-                          href="#"
-                          className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2"
-                        >
+                        <a href="/events-dashboard" className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2">
                           <div className="flex size-6 flex-col items-center justify-center">
-                            <img
-                              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                              alt="Icon 1"
-                            />
+                            <img src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg" alt="Icon 1"/>
                           </div>
                           <div className="flex flex-col items-start justify-center">
                             <h5 className="font-semibold">Upcoming Events</h5>
-                            <p className="hidden text-sm md:block">
-                              Discover what's happening on campus!
-                            </p>
+                            <p className="hidden text-sm md:block">Discover what's happening on campus!</p>
                           </div>
                         </a>
-                        <a
-                          href="#"
-                          className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2"
-                        >
+
+                        <a href="#" className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2">
                           <div className="flex size-6 flex-col items-center justify-center">
-                            <img
-                              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                              alt="Icon 2"
-                            />
+                            <img src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg" alt="Icon 2"/>
                           </div>
                           <div className="flex flex-col items-start justify-center">
                             <h5 className="font-semibold">Join Groups</h5>
-                            <p className="hidden text-sm md:block">
-                              Connect with peers who share your interests.
-                            </p>
+                            <p className="hidden text-sm md:block">Connect with peers who share your interests.</p>
                           </div>
                         </a>
-                        <a
-                          href="#"
-                          className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2"
-                        >
+
+                        <a href="/campus-navigation" className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2">
                           <div className="flex size-6 flex-col items-center justify-center">
-                            <img
-                              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                              alt="Icon 3"
-                            />
+                            <img src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg" alt="Icon 3"/>
                           </div>
                           <div className="flex flex-col items-start justify-center">
                             <h5 className="font-semibold">Find Locations</h5>
-                            <p className="hidden text-sm md:block">
-                              Navigate your way around campus easily.
-                            </p>
+                            <p className="hidden text-sm md:block">Navigate your way around campus easily.</p>
                           </div>
                         </a>
-                        <a
-                          href="#"
-                          className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2"
-                        >
+
+                        <a href="#" className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2">
                           <div className="flex size-6 flex-col items-center justify-center">
-                            <img
-                              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                              alt="Icon 4"
-                            />
+                            <img src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg" alt="Icon 4"/>
                           </div>
                           <div className="flex flex-col items-start justify-center">
-                            <h5 className="font-semibold">
-                              Mentorship Program
-                            </h5>
-                            <p className="hidden text-sm md:block">
-                              Get guidance from experienced alumni.
-                            </p>
+                            <h5 className="font-semibold">Mentorship Program</h5>
+                            <p className="hidden text-sm md:block">Get guidance from experienced alumni.</p>
                           </div>
                         </a>
+
                       </div>
                       <div className="grid auto-rows-max grid-cols-1 grid-rows-[max-content] gap-y-2 md:gap-y-4">
                         <h4 className="text-sm font-semibold leading-[1.3]">
                           Latest Articles
                         </h4>
-                        <a
-                          href="#"
-                          className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2"
-                        >
-                          <div className="flex size-6 flex-col items-center justify-center">
-                            <img
-                              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                              alt="Icon 5"
-                            />
-                          </div>
-                          <div className="flex flex-col items-start justify-center">
-                            <h5 className="font-semibold">Campus News</h5>
-                            <p className="hidden text-sm md:block">
-                              Stay updated with university happenings.
-                            </p>
-                          </div>
-                        </a>
-                        <a
-                          href="#"
-                          className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2"
-                        >
-                          <div className="flex size-6 flex-col items-center justify-center">
-                            <img
-                              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                              alt="Icon 6"
-                            />
-                          </div>
-                          <div className="flex flex-col items-start justify-center">
-                            <h5 className="font-semibold">Event Highlights</h5>
-                            <p className="hidden text-sm md:block">
-                              Don't miss out on key events!
-                            </p>
-                          </div>
-                        </a>
-                        <a
-                          href="#"
-                          className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2"
-                        >
-                          <div className="flex size-6 flex-col items-center justify-center">
-                            <img
-                              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                              alt="Icon 7"
-                            />
-                          </div>
-                          <div className="flex flex-col items-start justify-center">
-                            <h5 className="font-semibold">Alumni Stories</h5>
-                            <p className="hidden text-sm md:block">
-                              Read about successful alumni experiences.
-                            </p>
-                          </div>
-                        </a>
-                        <a
-                          href="#"
-                          className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2"
-                        >
-                          <div className="flex size-6 flex-col items-center justify-center">
-                            <img
-                              src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                              alt="Icon 8"
-                            />
-                          </div>
-                          <div className="flex flex-col items-start justify-center">
-                            <h5 className="font-semibold">Campus Resources</h5>
-                            <p className="hidden text-sm md:block">
-                              Access tools and support for your journey.
-                            </p>
-                          </div>
-                        </a>
+                          <a href="#" className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2">
+                            <div className="flex size-6 flex-col items-center justify-center">
+                              <img src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg" alt="Icon 5"/>
+                            </div>
+                            <div className="flex flex-col items-start justify-center">
+                              <h5 className="font-semibold">Campus News</h5>
+                              <p className="hidden text-sm md:block">Stay updated with university happenings.</p>
+                            </div>
+                          </a>
+
+                          <a href="#" className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2">
+                            <div className="flex size-6 flex-col items-center justify-center">
+                              <img src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg" alt="Icon 6"/>
+                            </div>
+                            <div className="flex flex-col items-start justify-center">
+                              <h5 className="font-semibold">Event Highlights</h5>
+                              <p className="hidden text-sm md:block">Don't miss out on key events!</p>
+                            </div>
+                          </a>
+
+                          <a href="/alumni-engagement" className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2">
+                            <div className="flex size-6 flex-col items-center justify-center">
+                              <img src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg" alt="Icon 7"/>
+                            </div>
+                            <div className="flex flex-col items-start justify-center">
+                              <h5 className="font-semibold">Alumni Stories</h5>
+                              <p className="hidden text-sm md:block">Read about successful alumni experiences.</p>
+                            </div>
+                          </a>
+
+                          <a href="#" className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2">
+                            <div className="flex size-6 flex-col items-center justify-center">
+                              <img src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg" alt="Icon 8"/>
+                            </div>
+                            <div className="flex flex-col items-start justify-center">
+                              <h5 className="font-semibold">Campus Resources</h5>
+                              <p className="hidden text-sm md:block">Access tools and support for your journey.</p>
+                            </div>
+                          </a>
                       </div>
                     </div>
                     <div className="max-w-none relative flex flex-1 p-6 md:py-8 md:pl-8 md:pr-0 lg:max-w-md">
@@ -322,66 +237,32 @@ export function Navbar5() {
                           From Our Blog
                         </h4>
                         <div className="grid auto-cols-fr grid-cols-1 grid-rows-[auto_auto] items-start gap-y-2 lg:grid-rows-[auto]">
-                          <a
-                            href="#"
-                            className="flex auto-cols-fr grid-cols-[0.6fr_1fr] flex-col gap-x-6 py-2 md:grid"
-                          >
-                            <div className="relative w-full pt-[66.66%]">
-                              <img
-                                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                                alt="Relume placeholder image 1"
-                                className="absolute inset-0 size-full object-cover"
-                              />
+
+                        <a href="#" className="flex auto-cols-fr grid-cols-[0.6fr_1fr] flex-col gap-x-6 py-2 md:grid">
+                          <div className="relative w-full pt-[66.66%]">
+                            <img src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg" alt="Relume placeholder image 1" className="absolute inset-0 size-full object-cover"/>
+                          </div>
+                          <div className="rt-4 mt-4 flex flex-col justify-start md:mt-0">
+                            <h5 className="mb-1 font-semibold">Insightful Tips</h5>
+                            <p className="text-sm">Learn how to make the most of campus.</p>
+                            <div className="mt-1.5">
+                              <Button title="Read more" variant="link" size="link" className="text-sm underline">Read more</Button>
                             </div>
-                            <div className="rt-4 mt-4 flex flex-col justify-start md:mt-0">
-                              <h5 className="mb-1 font-semibold">
-                                Insightful Tips
-                              </h5>
-                              <p className="text-sm">
-                                Learn how to make the most of campus.
-                              </p>
-                              <div className="mt-1.5">
-                                <Button
-                                  title="Read more"
-                                  variant="link"
-                                  size="link"
-                                  className="text-sm underline"
-                                >
-                                  Read more
-                                </Button>
-                              </div>
+                          </div>
+                        </a>
+
+                        <a href="/events-dashboard" className="flex auto-cols-fr grid-cols-[0.6fr_1fr] flex-col gap-x-6 py-2 md:grid">
+                          <div className="relative w-full pt-[66.66%]">
+                            <img src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg" alt="Relume placeholder image 2" className="absolute inset-0 size-full object-cover"/>
+                          </div>
+                          <div className="rt-4 mt-4 flex flex-col justify-start md:mt-0">
+                            <h5 className="mb-1 font-semibold">Campus Events</h5>
+                            <p className="text-sm">Find out what's happening this week.</p>
+                            <div className="mt-1.5">
+                              <Button title="Read more" variant="link" size="link" className="text-sm underline">Read more</Button>
                             </div>
-                          </a>
-                          <a
-                            href="#"
-                            className="flex auto-cols-fr grid-cols-[0.6fr_1fr] flex-col gap-x-6 py-2 md:grid"
-                          >
-                            <div className="relative w-full pt-[66.66%]">
-                              <img
-                                src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
-                                alt="Relume placeholder image 2"
-                                className="absolute inset-0 size-full object-cover"
-                              />
-                            </div>
-                            <div className="rt-4 mt-4 flex flex-col justify-start md:mt-0">
-                              <h5 className="mb-1 font-semibold">
-                                Campus Events
-                              </h5>
-                              <p className="text-sm">
-                                Find out what's happening this week.
-                              </p>
-                              <div className="mt-1.5">
-                                <Button
-                                  title="Read more"
-                                  variant="link"
-                                  size="link"
-                                  className="text-sm underline"
-                                >
-                                  Read more
-                                </Button>
-                              </div>
-                            </div>
-                          </a>
+                          </div>
+                        </a>
                         </div>
                         <div className="flex items-center">
                           <Button
