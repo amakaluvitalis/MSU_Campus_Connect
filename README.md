@@ -1,6 +1,3 @@
-Here’s the updated **README.md** with your requested changes:
-
----
 
 # **MSU Campus Connect**
 

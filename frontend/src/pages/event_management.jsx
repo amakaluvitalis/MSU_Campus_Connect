@@ -7,7 +7,7 @@ import { Layout1 } from "../components/event_management/Layout1";
 import { Layout25 } from "../components/event_management/Layout25";
 import { Layout16 } from "../components/event_management/Layout16";
 import { Cta4 } from "../components/event_management/Cta4";
-import { Footer4 } from "../components/event_management/Footer4";
+import { Footer4 } from "../components/home/Footer4";
 
 export default function EventManagement() {
   return (

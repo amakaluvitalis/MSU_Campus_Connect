@@ -5,7 +5,7 @@ import { Cta2 } from "../components/login/Cta2";
 import { Cta19 } from "../components/login/Cta19";
 import { Cta7 } from "../components/login/Cta7";
 import { Cta39 } from "../components/login/Cta39";
-import { Footer4 } from "../components/login/Footer4";
+import { Footer4 } from "../components/home/Footer4";
 
 export default function Page() {
   return (

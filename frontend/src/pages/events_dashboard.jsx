@@ -7,7 +7,7 @@ import { Blog33 } from "../components/events_dashboard/Blog33";
 import { Layout369 } from "../components/events_dashboard/Layout369";
 import { Cta3 } from "../components/events_dashboard/Cta3";
 import { Faq6 } from "../components/events_dashboard/Faq6";
-import { Footer4 } from "../components/events_dashboard/Footer4";
+import { Footer4 } from "../components/home/Footer4";
 
 export default function EventDashboard() {
   return (
