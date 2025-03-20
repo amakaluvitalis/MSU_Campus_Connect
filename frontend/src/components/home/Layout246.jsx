@@ -4,6 +4,7 @@ import { Button } from "@relume_io/relume-ui";
 import React from "react";
 import { RxChevronRight } from "react-icons/rx";
 
+
 export function Layout246() {
   return (
     <section id="relume" className="px-[5%] py-16 md:py-24 lg:py-28">
@@ -50,10 +51,10 @@ export function Layout246() {
           <div>
             <div className="mb-5 md:mb-6">
               <img
-                src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
-                className="size-12"
-                alt="Relume logo"
-              />
+                src="/images/home_event.jpeg" 
+                className="size-12" 
+                alt="Event Image" />
+
             </div>
             <h3 className="mb-3 text-xl font-bold md:mb-4 md:text-2xl">
               Foster Connections Through Networking and Community Building
