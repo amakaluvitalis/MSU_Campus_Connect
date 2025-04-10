@@ -1,4 +1,3 @@
-
 # **MSU Campus Connect - Backend (Django)**
 
 **Backend for the MSU Campus Connect project, built with Django and PostgreSQL, supporting real-time event management, networking, and campus navigation.**
@@ -49,8 +48,7 @@ The backend serves as the core logic and data management layer, handling:
 
 ## **📂 Backend Directory Structure**
 
-```
-backend/
+.backend/
 │── core/              # Main Django app (integrates all modules)
 │── events/            # Event management module
 │── networking/        # Networking and chat module
@@ -63,7 +61,6 @@ backend/
 │── docker-compose.yml # Docker setup for Redis & Celery
 │── .gitignore         # Git ignored files
 │── README.md          # Backend documentation
-```
 
 ---
 
@@ -71,7 +68,7 @@ backend/
 
 ### **Project Setup**
 
-* [ ] Set up **Django** project and create `ccvenv` virtual environment
+* [X] Set up **Django** project and create `ccvenv` virtual environment
 * [ ] Configure **PostgreSQL** as the database
 * [ ] Implement **JWT authentication** (SimpleJWT)
 
@@ -100,7 +97,6 @@ backend/
 
 * [ ] Design **Entity Relationship Diagram (ERD)**
 * [ ] Implement **PostgreSQL models**
-
 * [ ] Optimize with **indexes & JSON fields**
 
 ### **Background Task Processing (Celery + Redis)**
