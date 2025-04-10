@@ -69,8 +69,8 @@ The backend serves as the core logic and data management layer, handling:
 ### **Project Setup**
 
 * [X] Set up **Django** project and create `ccvenv` virtual environment
-* [ ] Configure **PostgreSQL** as the database
-* [ ] Implement **JWT authentication** (SimpleJWT)
+* [X] Configure **PostgreSQL** as the database
+* [X] Implement **JWT authentication** (SimpleJWT)
 
 ### **API Development**
 
