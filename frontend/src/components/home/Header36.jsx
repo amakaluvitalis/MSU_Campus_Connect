@@ -2,6 +2,7 @@
 
 import { Button } from "@relume_io/relume-ui";
 import React from "react";
+import Masenovedio from "../../vedios/Maseno_university_Welcome_tour.mp4"
 
 export function Header36() {
   return (
@@ -19,18 +20,27 @@ export function Header36() {
           effortlessly.
         </p>
         <div className="mt-6 flex flex-wrap gap-4 md:mt-8">
-          <Button title="Learn More">Learn More</Button>
-          <Button title="Sign Up" variant="secondary">
-            Sign Up
+          <Button asChild>
+            <Link to="/About">Learn More</Link>
+          </Button>
+
+          <Button asChild variant="secondary">
+            <Link to="/sign_up">Sign Up</Link>
           </Button>
         </div>
       </div>
       <div>
-        <img
-          src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
-          alt="Relume placeholder image"
+        {/* Video element */}
+        <video
           className="w-full object-cover lg:h-screen lg:max-h-[60rem]"
-        />
+          autoPlay
+          loop
+          muted
+          controls
+        >
+          <source src={Masenovedio} type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
       </div>
     </section>
   );

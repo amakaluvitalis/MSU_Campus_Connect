@@ -1,0 +1,1154 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head> 
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PBJP9KW6R0"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-PBJP9KW6R0", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+<link rel="canonical" href="https://www.maseno.ac.ke/bootcamp-hackathon-competition" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/LibreFranklinBold-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/LibreFranklinRegular-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/LibreFranklinMediumItalic-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/LibreFranklinSemiBold-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/ArvoRegular-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/ArvoItalic-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/ArvoBoldItalic-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/ArvoBold-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/IBMPlexSerifBold-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/IBMPlexSerifMedium-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/IBMPlexSerifRegular-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="stylesheet" href="https://www.maseno.ac.ke/sites/default/files/fontyourface/fontsquirrel/IBMPlexSerifSemiBold-fontfacekit/fontyourface-stylesheet.css" media="all" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.png" type="image/png" />
+
+    <title>Maseno University Students Win the Western Region University Bootcamp | Maseno University - Fountain of excellence</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_MsAUjoF-rvjqKz6BH5hPGWmj27O-x8rDyUtguxH5a40.css" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Montserrat:400,500,600,700" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Roboto:400,700" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_pLFrKfO9MG9PPiYsU3BCNZx0Vc6gpkYG6Q0FjRMeWMI.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_dPytcVqPB37_FJaZjcoKwySmaHSnT0gORv-rEXUrGtE.css" />
+
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1686","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"asset_injector\/css\/global,asset_injector\/js\/global_js,colorbox\/default,colorbox_load\/colorbox_load,commerce_cart\/cart_block,ds\/ds_2col,extlink\/drupal.extlink,gavias_content_builder\/gavias_content_builder.assets.frontend,gavias_edupia\/gavias_edupia.skin.default,gavias_edupia\/global-styling,gavias_sliderlayer\/gavias_sliderlayer.assets.frontend,google_analytics\/google_analytics,ng_lightbox\/ng_lightbox,paragraphs\/drupal.paragraphs.unpublished,statistics\/drupal.statistics,system\/base,we_megamenu\/form.we-mega-menu-frontend","theme":"gavias_edupia","theme_token":null},"ajaxTrustedUrl":[],"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"google_analytics":{"account":{},"trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"statistics":{"data":{"nid":"1686"},"url":"\/core\/modules\/statistics\/statistics.php"},"gavias_load_ajax_view":"\/custom\/gavias_hook\/ajax_view","user":{"uid":0,"permissionsHash":"1a46c246e08a32e801f10fa55fb1f5ff2eb69c6e8df2432e45c53621cf05ee63"}}</script>
+<script src="/sites/default/files/js/js_1mSbYMQjij4pykJSbzsuOV4KPAGYokSFoi11-B54YvI.js"></script>
+
+
+    <link rel="stylesheet" href="https://www.maseno.ac.ke/themes/gavias_edupia/css/custom.css" media="screen" />
+    <link rel="stylesheet" href="https://www.maseno.ac.ke/themes/gavias_edupia/css/update.css" media="screen" />
+
+    
+
+    
+          <style class="customize"></style>
+    
+  </head>
+
+  
+  <body class="gavias-content-builder hidden-title fontyourface layout-no-sidebars wide not-preloader path-node node--type-article">
+
+    <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="body-page gva-body-page">
+	    <header id="header" class="header-v1">
+  
+  <div class="topbar">
+  <div class="container">
+    <div class="topbar-inner">
+      <div class="row">
+        
+        <div class="topbar-left col-xl-8 col-lg-8 col-md-8 col-sm-8 col-xs-6">
+                    <div class="topbar-left-content">
+              <div>
+    <nav role="navigation"  id="block-secondarymenu" class="block block-menu navigation menu--secondary-menu">
+          
+  
+    
+  <div class="block-content">
+                 
+              <ul class="gva_menu">
+        
+            <li  class="menu-item">
+        <a href="https://staff.maseno.ac.ke/">Staff Portal</a>
+        
+      </li>
+    
+            <li  class="menu-item menu-item--expanded">
+        <a href="/maseno-campuses" data-drupal-link-system-path="node/161">Campuses</a>
+                                <ul class="menu sub-menu">
+        
+            <li  class="menu-item">
+        <a href="https://ecampus.maseno.ac.ke/" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_edupia_companypresentation">eCampus</a>
+        
+      </li>
+        </ul>
+  
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="https://elearning.maseno.ac.ke/">eLearning</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="http://library.maseno.ac.ke/">Library</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="https://student.maseno.ac.ke/" gva_layout="menu-list" gva_layout_columns="3" gva_block="gavias_edupia_companypresentation">Student Portal</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="https://programmes.maseno.ac.ke/">Programmes</a>
+        
+      </li>
+    
+            <li  class="menu-item">
+        <a href="https://qa.maseno.ac.ke/">Quality Assurance &amp; PM</a>
+        
+      </li>
+        </ul>
+  
+
+
+        </div>  
+</nav>
+<div id="block-gavias-edupia-topbar" class="block block-block-content block-block-contenta87cb642-bb80-4bd8-9bb0-ed5e2d4da5e0 no-title">
+  
+    
+      <div class="content block-content">
+      
+    </div>
+  </div>
+
+  </div>
+
+          </div>
+                </div>
+
+        <div class="topbar-right col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-6">
+          
+          <div class="gva-user-region user-region">
+            <div class="user-top">
+                            <span class="icon">
+                  
+                  <i class="fa fa-user"></i>
+                              </span>
+            </div>  
+            <div class="user-content">  
+                
+              <ul class="user-links">
+                                  <li><a href="/user/login">+ Login</a></li>
+                  <li><a href="/user/register">+ Register</a></li>
+                  
+              </ul>
+            </div>  
+          </div>
+
+        </div>
+
+      </div>
+    </div>  
+  </div>  
+</div>
+
+      
+
+   <div class="header-main ">
+      <div class="container header-content-layout">
+         <div class="header-main-inner p-relative">
+            <div class="row">
+              <div class="col-md-3 col-sm-6 col-xs-8 branding">
+                                    <div>
+    
+      <a href="/" title="Home" rel="home" class="site-branding-logo">
+        
+        <img src="/sites/default/files/Maseno-logo_v5.png" alt="Home" />
+        
+    </a>
+    
+  </div>
+
+                              </div>
+
+              <div class="col-md-9 col-sm-6 col-xs-4 p-static">
+                <div class="header-inner clearfix">
+                  <div class="main-menu">
+                    <div class="area-main-menu">
+                      <div class="area-inner">
+                        <div class="gva-offcanvas-mobile">
+                          <div class="close-offcanvas hidden"><i class="fa fa-times"></i></div>
+                                                        <div>
+    <div id="block-primarymenu-2" class="block block-we-megamenu block-we-megamenu-blockprimary-menu no-title">
+  
+    
+      <div class="content block-content">
+      <div class="region-we-mega-menu">
+	<a class="navbar-toggle collapsed">
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	    <span class="icon-bar"></span>
+	</a>
+	<nav  class="primary-menu navbar navbar-default navbar-we-mega-menu mobile-collapse hover-action" data-menu-name="primary-menu" data-block-theme="gavias_edupia" data-style="Default" data-animation="None" data-delay="" data-duration="" data-autoarrow="" data-alwayshowsubmenu="" data-action="hover" data-mobile-collapse="0">
+	  <div class="container-fluid">
+	    <ul  class="we-mega-menu-ul nav nav-tabs">
+  <li  class="we-mega-menu-li" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="d49365ee-b330-4dc0-acf0-610b9e0c4611" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/maseno-home" target="">
+      Home    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="77fbe02d-b54c-4f15-a440-daad650539e1" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      About Maseno</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="300" data-class="" style="width: 300px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span6" data-element-type="we-mega-menu-col" data-width="6" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="4ebccaa0-0545-4822-a45e-b90ce1e3d68a" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/service-charter" target="">
+      Service Charter    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="2aeabf13-c16a-4d9d-b595-03c9518edc4e" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/maseno-brief" target="">
+      Maseno in Brief    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="301f7679-a7dd-4cf4-9085-61c2ea2e14e9" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/maseno-general-information" target="">
+      Vision &amp; Mission    </a>
+    
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span6" data-element-type="we-mega-menu-col" data-width="6" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="68ee5f5a-20b9-40fc-9c57-cf86fccbcad3" data-submenu="0" hide-sub-when-collapse="0">
+      <a class="we-mega-menu-li" title="" href="/policies-guidelines" target="">
+      Policies and Guidelines    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="7d8861af-cddf-48af-b564-6a1f36c36e66" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/university-staff" target="">
+      University Management    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="a6097957-4f29-4c6f-a1d8-3b2eee218e00" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/maseno-university-council" target="">
+      University Council    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="88f54e6a-0113-4df3-8717-8f3f73097ad1" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/no-vacancies" target="">
+      Vacancies    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="d4ae4935-7727-4d25-b5e0-188823ded297" data-submenu="0" hide-sub-when-collapse="0">
+      <a class="we-mega-menu-li" title="" href="https://programmes.maseno.ac.ke/" target="">
+      Programmes    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="a883ce84-56d4-4538-a1f5-6623ca062bf4" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Admissions</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="300" data-class="" style="width: 300px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="e1dfd2ea-e1a6-4691-9154-be5bfe967b07" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/application-procedure" target="">
+      Application Procedure    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="84e2a66e-3b14-42a3-809f-1ae8a88d0910" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/joining-instructions" target="">
+      Students Joining Instructions    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="2c45692f-42bd-49ec-ae49-fb17d34911c7" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/other-forms-download" target="">
+      Other Forms Download    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="d551495b-c626-41f8-8748-cefe8f5a08ad" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/application-forms" target="">
+      Download Application forms    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="b042a1c0-7264-491d-b53b-2d3e17c2ae91" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/fee-structures-updated-18" target="">
+      Fee Structure    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="37db967a-bbeb-47d9-a966-c16f68d7fe26" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/admission-contacts" target="">
+      Contact Us    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu research-dropdown" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="df30aac9-80e5-4ecd-88ab-55b8819da568" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="research-dropdown" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Research</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="1f671460-77de-40b5-ba25-6989da48a522" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/research" target="">
+      Research by School    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="8a4c7608-4c57-4c2d-b79d-4347ca880356" data-submenu="0" hide-sub-when-collapse="0">
+      <a class="we-mega-menu-li" title="" href="/publications2" target="">
+      Publications    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu mobile-hidden-menu" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="7443aa5a-9728-48fd-a3e4-2d092cc62977" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="mobile-hidden-menu" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Conference Proceedings</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="4b14786a-8501-480e-9157-8c004f51bf8c" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/conference-2019" target="">
+      CONFERENCE 2019    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="f31f201a-2056-457b-88a3-f2077992faee" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/conference-2015" target="">
+      CONFERENCE 2015    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="28509c1b-7c3d-4f74-a774-c90451db6d66" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Directorates</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="4c2a1b57-956b-428b-8b82-5dbe010fdc4a" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/linkage-outages" target="">
+      Linkages, Outreach &amp; Consultancies and Coordination    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="fa7409f4-0d0b-4e57-9058-cf99d8f182ac" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/research-innovation" target="">
+      Research and Innovation    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="95448940-c9d5-4a13-913a-37bfb96aeb01" data-submenu="0" hide-sub-when-collapse="0">
+      <a class="we-mega-menu-li" title="" href="https://qms.maseno.ac.ke/" target="">
+      Quality Assurance     </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="ec460eba-bacf-416d-948f-52011d0bf97a" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Human Resource</a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="ebcd9d83-74b1-46ba-90ab-b2751b474740" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Information and Communication Technology Services</a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="eb43d74c-0446-44c8-80c1-688d69616246" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Public Relations</a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="b5dd671c-0a6d-43b3-9796-d51dbb37900d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Self Sponsored Programmes</a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li dropdown-menu mobile-hidden-menu" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="841e4b01-a895-49d1-bd40-ab922885bf3f" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="mobile-hidden-menu" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Information Resources</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="57937931-5315-4125-8253-6d36c6c39e62" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/intellectual-property" target="">
+      Intellectual Property Tutorial Resources    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="bc98bef0-52c3-4202-949f-89d192d3e15c" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/consultancies" target="">
+      Consultancies    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="874b273b-42be-454b-9c6b-3bdde365c060" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/information-resource-research" target="">
+      Research    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li mobile-hidden-menu" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="f3f9d4de-8fed-4ab6-a2c1-ca19ce1014e9" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="mobile-hidden-menu" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/maseno-journals" target="">
+      Maseno University Journals    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="621e0584-e568-4620-a9bc-7b74c16869f2" data-submenu="0" hide-sub-when-collapse="0">
+      <a class="we-mega-menu-li" title="" href="/technology-innovation-centre" target="">
+      Technology Innovation Support Centre    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="bd8da913-7aae-4515-9b64-86cc7fb5549a" data-submenu="0" hide-sub-when-collapse="0">
+      <a class="we-mega-menu-li" title="" href="/partnerships-collaborations" target="">
+      Partnerships &amp; Collaborations    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="a641aaaf-f4c4-4a79-b0ac-ffad6802fc8f" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Projects</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="" data-class="" style="width: px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span12" data-element-type="we-mega-menu-col" data-width="12" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="c7771835-1a28-47d7-8ab3-202b475a9760" data-submenu="0" hide-sub-when-collapse="0">
+      <a class="we-mega-menu-li" title="" href="https://spade.maseno.ac.ke/" target="">
+      SPADE    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="2" data-element-type="we-mega-menu-li" description="" data-id="752e475a-0395-42eb-85af-8d3681edc9f0" data-submenu="0" hide-sub-when-collapse="0">
+      <a class="we-mega-menu-li" title="" href="https://cpc.maseno.ac.ke/" target="">
+      CPC-Creating Postgraduate Collaboration    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="fd0aa1a6-7d17-4d5d-bfce-74df6f56dffd" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/ethics-overview" target="">
+      Ethics- MUSERC    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="0704ea1a-19e3-49e2-991a-c4da6f6de483" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/about-students" target="">
+      Students    </a>
+    
+</li><li  class="we-mega-menu-li dropdown-menu schools-dropdown" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="db7d9261-1ef0-46fc-8e26-a6d863f9c01a" data-submenu="1" hide-sub-when-collapse="" data-group="0" data-class="schools-dropdown" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a href='#' data-drupal-link-system-path="<front>" class="we-megamenu-nolink">
+      Schools</a>
+    <div  class="we-mega-menu-submenu" data-element-type="we-mega-menu-submenu" data-submenu-width="400" data-class="" style="width: 400px">
+  <div class="we-mega-menu-submenu-inner">
+    <div  class="we-mega-menu-row" data-element-type="we-mega-menu-row" data-custom-row="0">
+  <div  class="we-mega-menu-col span6" data-element-type="we-mega-menu-col" data-width="6" data-block="" data-blocktitle="0" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="a80e2290-1381-4008-8ace-43096cc96a65" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_blank">
+      <a class="we-mega-menu-li" title="" href="https://soe.maseno.ac.ke/" target="_blank">
+      School of Education    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="0997c4d9-5548-40a2-a874-e2fe892dd1f0" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_blank">
+      <a class="we-mega-menu-li" title="" href="http://sop.maseno.ac.ke/" target="_blank">
+      School of Pharmacy    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="1ae35a93-2e73-4838-a751-099267b108c2" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_blank">
+      <a class="we-mega-menu-li" title="" href="http://sci.maseno.ac.ke/" target="_blank">
+      School of Computing &amp; Informatics    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="70e076bc-4704-4691-9e59-6dbe7e044e8b" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_blank">
+      <a class="we-mega-menu-li" title="" href="http://spaa.maseno.ac.ke" target="_blank">
+      School of Planning and Architecture    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="d45841f3-a0aa-439d-92a7-17738c2d6651" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="http://medicine.maseno.ac.ke" target="">
+      School of Medicine    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="ea757d79-7b94-4b28-82a0-dd384ddc15e0" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_blank">
+      <a class="we-mega-menu-li" title="" href="http://son.maseno.ac.ke/" target="_blank">
+      School of Nursing    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="38256478-e5ee-4db2-8b4e-4ac858e845a3" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_blank">
+      <a class="we-mega-menu-li" title="" href="http://sdss.maseno.ac.ke/" target="_blank">
+      Odera Akang&#039;o    </a>
+    
+</li>
+</ul>
+</div>
+<div  class="we-mega-menu-col span6" data-element-type="we-mega-menu-col" data-width="6" data-block="" data-blocktitle="1" data-hidewhencollapse="" data-class="">
+  <ul class="nav nav-tabs subul">
+  <li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="c159244e-a70b-4b6b-b2fa-e3baa933efa4" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="https://sol.maseno.ac.ke/" target="_self">
+      School of Law    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="ec68c234-1c0e-4307-9f3c-090909aa1bd0" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_blank">
+      <a class="we-mega-menu-li" title="" href="http://sbps.maseno.ac.ke/" target="_blank">
+      School of Physical and Biological Sciences    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="603fe321-30be-4812-b37d-9d67f6248c17" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_blank">
+      <a class="we-mega-menu-li" title="" href="http://safs.maseno.ac.ke/" target="_blank">
+      School of Agriculture, Food Security and Environmental Sciences    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="192b8eae-1d76-4c8a-aa5f-dc69b0c508f5" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_blank">
+      <a class="we-mega-menu-li" title="" href="http://sass.maseno.ac.ke/" target="_blank">
+      School of Arts and Social Sciences    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="8c3bb373-122d-44dd-a7f1-a16f30aa09cf" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_blank">
+      <a class="we-mega-menu-li" title="" href="http://sbe.maseno.ac.ke/" target="_blank">
+      School of Business and Economics    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="59f8fea3-b168-4c7a-bd73-971293c2363a" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="http://smsas.maseno.ac.ke" target="_self">
+      School of Mathematics, Statistics and Actuarial Sciences    </a>
+    
+</li><li  class="we-mega-menu-li" data-level="1" data-element-type="we-mega-menu-li" description="" data-id="0767d7af-73a4-482d-b9ce-de82bef23292" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="" data-icon="" data-caption="" data-alignsub="" data-target="_self">
+      <a class="we-mega-menu-li" title="" href="http://publichealth.maseno.ac.ke/" target="_self">
+      School of Public Health and Community Development    </a>
+    
+</li>
+</ul>
+</div>
+
+</div>
+
+  </div>
+</div>
+</li><li  class="we-mega-menu-li menu-hidden-desktop" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="c2b12f31-9848-477e-8c94-ee8c59da1f53" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="menu-hidden-desktop" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/maseno-campuses" target="">
+      Campuses    </a>
+    
+</li><li  class="we-mega-menu-li menu-hidden-desktop" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="5767093a-eea8-4b97-86d6-88d4cd7c5f33" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="menu-hidden-desktop" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="https://elearning.maseno.ac.ke/" target="">
+      ELearning Portal    </a>
+    
+</li><li  class="we-mega-menu-li menu-hidden-desktop" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="e31caea8-2744-4f89-8801-28d5d96c00dd" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="menu-hidden-desktop" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="/about-library" target="">
+      Library    </a>
+    
+</li><li  class="we-mega-menu-li menu-hidden-desktop" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="078d17c2-d5a2-44fa-8f7c-73507eb1732d" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="menu-hidden-desktop" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="https://staff.maseno.ac.ke/" target="">
+      Staff Portal    </a>
+    
+</li><li  class="we-mega-menu-li menu-hidden-desktop" data-level="0" data-element-type="we-mega-menu-li" description="" data-id="cd35a4d1-502d-4977-81d7-3bc165ad5d45" data-submenu="0" hide-sub-when-collapse="" data-group="0" data-class="menu-hidden-desktop" data-icon="" data-caption="" data-alignsub="" data-target="">
+      <a class="we-mega-menu-li" title="" href="https://student.maseno.ac.ke/" target="">
+      Student Portal    </a>
+    
+</li>
+</ul>
+	  </div>
+	</nav>
+</div>
+    </div>
+  </div>
+
+  </div>
+
+                          
+                            
+                                                  </div>
+                          
+                        <div id="menu-bar" class="menu-bar d-xl-none d-lg-none d-xl-none">
+                          <span class="one"></span>
+                          <span class="two"></span>
+                          <span class="three"></span>
+                        </div>
+                        
+                                                  <div class="quick-cart">
+                              <div>
+    <div id="block-gavias-edupia-cart" class="block block-commerce-cart no-title">
+  
+    
+      <div class="content block-content">
+      <div class="title"><a class="link-qc" href="javascript:void(0);"><span class="icon fa fa-shopping-cart"></span><span class="cart-count">0</span></a></div>
+<div class="content-inner">
+      <div class="cart-no-items">
+      <p>Your cart is empty.</p>
+      <p><strong><a href="/"><span class="text-theme">Keep Shopping</span></a></strong></p>
+    </div>
+  </div>
+    </div>
+  </div>
+
+  </div>
+
+                          </div>
+                        
+                                              </div>
+                    </div>
+                  </div>  
+                </div> 
+              </div>
+
+            </div>
+         </div>
+      </div>
+   </div>
+
+</header>
+	
+					<div class="breadcrumbs">
+			  <div>
+    
+<div class="breadcrumb-content-inner">
+  <div class="gva-breadcrumb-content">
+    <div id="block-gavias-edupia-breadcrumbs" class="text-dark block gva-block-breadcrumb block-system block-system-breadcrumb-block no-title">
+      <div class="breadcrumb-style" style="background-image: url(&#039;/themes/gavias_edupia/images/breadcrumb.jpg&#039;);background-position: center center;background-repeat: no-repeat;">
+        <div class="container">
+          <div class="breadcrumb-content-main">
+            <h2 class="page-title">Maseno University Students Win the Western Region University Bootcamp  </h2>
+             
+                          <div class="">
+                <div class="content block-content">
+                  <div class="breadcrumb-links">
+  <div class="content-inner">
+          <nav class="breadcrumb " role="navigation" aria-labelledby="system-breadcrumb">
+        <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+        <ol>
+          
+                            <li>
+                          <a href="/">Home</a>
+                          
+          </li>
+                </ol>
+      </nav>
+      </div> 
+</div>  
+                </div>
+              </div>  
+                      </div> 
+        </div>   
+      </div> 
+    </div>  
+  </div>  
+</div>  
+
+
+  </div>
+
+		</div>
+	
+	<div role="main" class="main main-page has-breadcrumb">
+	
+		<div class="clearfix"></div>
+			
+
+					<div class="help show hidden">
+				<div class="container">
+					<div class="content-inner">
+						  <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+					</div>
+				</div>
+			</div>
+		
+				
+		<div class="clearfix"></div>
+				
+		<div class="clearfix"></div>
+		
+		<div id="content" class="content content-full">
+			<div class="container container-bg">
+									<div class="content-main-inner">
+	<div class="row">
+		
+				 
+
+		<div id="page-main-content" class="main-content col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 order-xl-2 order-lg-2 order-md-1 order-sm-1 order-xs-1 ">
+
+			<div class="main-content-inner">
+				
+				
+									<div class="content-main">
+						  <div>
+    <div id="block-gavias-edupia-content" class="block block-system block-system-main-block no-title">
+  
+    
+      <div class="content block-content">
+      
+<!-- Start Display article for teaser page -->
+
+<article data-history-node-id="1686" role="article" about="/bootcamp-hackathon-competition" typeof="schema:Article" class="node node-detail node--type-article node--promoted node--view-mode-full clearfix">
+  <div class="post-block">
+      
+    <div class="post-thumbnail post-standard">
+              
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">  <img property="schema:image" src="/sites/default/files/articles/IMG-20230804-WA0023.jpg" alt="win-boocamp" loading="lazy" typeof="foaf:Image" />
+
+</div>
+      
+        
+    </div>
+
+    <div class="post-content">
+      
+        <h1 class="post-title"><span property="schema:name">Maseno University Students Win the Western Region University Bootcamp </span>
+</h1>
+        <span property="schema:name" content="Maseno University Students Win the Western Region University Bootcamp " class="hidden"></span>
+         
+      
+      <div class="post-meta">
+        <span class="post-category">  <span class="post-categories" ><a href="/taxonomy/term/517" hreflang="en">News</a></span>
+</span>
+        <span class="line"></span>
+        <span class="post-created">Aug 09, 2023</span>
+      </div>
+      
+      <div class="node__content clearfix">
+        
+      <div class="field field--name-field-content field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item"><div class="paragraph paragraph--type-image-paragraph paragraph--view-mode-default ds-2col clearfix">
+
+  
+
+  <div class="group-left">
+    
+            <div class="field field--name-field-paragraph-media field--type-entity-reference field--label-hidden field__item"><div>
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/large/public/2023-08/IMG-20230804-WA0014.jpg?itok=grJWa5RA" alt="bootcamp" loading="lazy" typeof="foaf:Image" />
+
+
+</div>
+          </div>
+
+</div>
+</div>
+      
+  </div>
+
+  <div class="group-right">
+    
+            <div class="field field--name-field-paragraphs-text field--type-text-long field--label-hidden field__item"><h2>Maseno University Students Win the Western Region University Bootcamp and Hackathon Competition</h2>
+
+<hr />
+<p align="justify">Maseno University students from the School of Computing and Informatics participated in Bootcamp and hackathon training and competiton hosted by Huawei Technologies and Communication Authority of Kenya. The training and bootcamp ran from 31st July to 4th August 2023 at Ciala Resort,The participating students were from universities such as Kibabi university, Kabarak University, Kisii University, Egerton university, Jaramogi Oginga Odinga University of Science and Technology, Masinde Muliro Univerity of Science and Technology etc. The competition aimed at driving the development of high-quality ICT talent, select qualified talent for the industry, continuously provide future driven training, promote active participants for digital transformation, promote efficient mapping of talent supply and demand and further contribute to a sustainable talent ecosystem.</p>
+
+<hr /></div>
+      
+  </div>
+
+</div>
+
+</div>
+              <div class="field__item"><div class="paragraph paragraph--type-image-paragraph paragraph--view-mode-default ds-2col clearfix">
+
+  
+
+  <div class="group-left">
+    
+            <div class="field field--name-field-paragraph-media field--type-entity-reference field--label-hidden field__item"><div>
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/large/public/2023-08/IMG-20230804-WA0023.jpg?itok=AMvJd6eI" alt="wer" loading="lazy" typeof="foaf:Image" />
+
+
+</div>
+          </div>
+
+</div>
+</div>
+      
+  </div>
+
+  <div class="group-right">
+    
+            <div class="field field--name-field-paragraphs-text field--type-text-long field--label-hidden field__item"><p align="justify"><br />
+The students from the university scooped position 1, !st runner Up and 2nd runner Up for the Bootcamp and the hackathon event. The two teams from the hackathon and Boot camp will represent the region in national competitions to be held later in October. <br />
+<br />
+Congratulation to team Maseno for the great achievement and proving that we are the Fountain of excellence </p>
+
+<p align="justify"><img alt="bn" data-entity-type="file" data-entity-uuid="96a003df-764b-4d2a-85ef-5b31aa05abf4" height="127" src="/sites/default/files/inline-images/banner.png" width="697" loading="lazy" /><br />
+ </p>
+</div>
+      
+  </div>
+
+</div>
+
+</div>
+              <div class="field__item"><div class="paragraph paragraph--type-image-image paragraph--view-mode-default ds-2col clearfix">
+
+  
+
+  <div class="group-left">
+    
+            <div class="field field--name-field-paragraph-media field--type-entity-reference field--label-hidden field__item"><div>
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/large/public/2023-08/IMG-20230804-WA0016.jpg?itok=pgSKLLv6" alt="boot1" loading="lazy" typeof="foaf:Image" />
+
+
+</div>
+          </div>
+
+</div>
+</div>
+      
+  </div>
+
+  <div class="group-right">
+    
+            <div class="field field--name-field-paragraph-media-2 field--type-entity-reference field--label-hidden field__item"><div>
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/large/public/2023-08/IMG-20230804-WA0017.jpg?itok=dJHW6N_L" alt="boot2" loading="lazy" typeof="foaf:Image" />
+
+
+</div>
+          </div>
+
+</div>
+</div>
+      
+  </div>
+
+</div>
+
+</div>
+              <div class="field__item"><div class="paragraph paragraph--type-image-image paragraph--view-mode-default ds-2col clearfix">
+
+  
+
+  <div class="group-left">
+    
+            <div class="field field--name-field-paragraph-media field--type-entity-reference field--label-hidden field__item"><div>
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/large/public/2023-08/IMG-20230804-WA0047.jpg?itok=5vkWr1ZT" alt="boot2" loading="lazy" typeof="foaf:Image" />
+
+
+</div>
+          </div>
+
+</div>
+</div>
+      
+  </div>
+
+  <div class="group-right">
+    
+            <div class="field field--name-field-paragraph-media-2 field--type-entity-reference field--label-hidden field__item"><div>
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/large/public/2023-08/IMG-20230804-WA0022.jpg?itok=89b7Iv6f" alt="boot-3" loading="lazy" typeof="foaf:Image" />
+
+
+</div>
+          </div>
+
+</div>
+</div>
+      
+  </div>
+
+</div>
+
+</div>
+              <div class="field__item"><div class="paragraph paragraph--type-image-image paragraph--view-mode-default ds-2col clearfix">
+
+  
+
+  <div class="group-left">
+    
+            <div class="field field--name-field-paragraph-media field--type-entity-reference field--label-hidden field__item"><div>
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/sites/default/files/styles/large/public/2023-08/IMG-20230804-WA0042.jpg?itok=FWOh2wH5" alt="the-boot" loading="lazy" typeof="foaf:Image" />
+
+
+</div>
+          </div>
+
+</div>
+</div>
+      
+  </div>
+
+  <div class="group-right">
+    
+  </div>
+
+</div>
+
+</div>
+          </div>
+  <ul class="links inline"><li class="comment-forbidden"></li></ul>
+      </div>
+
+      <div id="node-single-comment">
+        
+      </div>
+
+    </div>
+
+  </div>
+
+</article>
+
+<!-- End Display article for detail page -->
+
+    </div>
+  </div>
+
+  </div>
+
+					</div>
+				
+							</div>
+
+		</div>
+
+		<!-- Sidebar Left -->
+				<!-- End Sidebar Left -->
+
+		<!-- Sidebar Right -->
+				<!-- End Sidebar Right -->
+		
+	</div>
+</div>
+					
+			</div>
+		</div>
+
+		
+				
+			</div>
+</div>
+
+  
+<footer id="footer" class="footer">
+  <div class="footer-inner">
+    
+         <div class="footer-top">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+              <div class="before-footer clearfix area">
+                    <div>
+    <div id="block-gavias-edupia-sociallinksfooter" class="block block-block-content block-block-content7e26e9e5-a2f4-4e12-9643-7c8954f954ef no-title">
+  
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="footer-social">
+	<h5>Connect with us</h5>
+	<ul>
+		<li><a href="https://twitter.com/maseno_uni" target="_blank"><i class="fab fa-twitter"></i></a></li>
+               <li><a href=" https://www.youtube.com/channel/UCgBmCK6WcDwMAkGZ7AmrEGg" target="_blank"><i class="fab fa-youtube"></i></a></li>
+		
+                <li><a href="https://www.instagram.com/masenouni/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+  		
+	</ul>
+</div></div>
+      
+    </div>
+  </div>
+
+  </div>
+
+              </div>
+            </div>
+          </div>     
+        </div>   
+      </div> 
+          
+     <div class="footer-center">
+        <div class="container">      
+           <div class="row">
+                              <div class="footer-first col-xl-3 col-lg-3 col-md-12 col-sm-12 col-xs-12 column">
+                    <div>
+    <div id="block-gavias-edupia-contactinfo" class="block block-block-content block-block-content7da38301-272f-4979-8de1-06b564010f17 no-title">
+  
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="contact-info">
+<div class="description"><img alt="maseno-uni" data-entity-type="file" data-entity-uuid="ef6a72f6-2d76-4034-ac4b-e3efc9af9c57" height="132" src="/sites/default/files/inline-images/masenon-university-logo-white.png" width="124" class="align-left" loading="lazy" /></div>
+
+<div class="cleafix">
+<ul class="contact-info">
+	<li>Private Bag, Maseno, Kenya</li>
+	<li>Mobile: 0722-203411</li>
+	<li>Tel: +254 - 57 - 351620/2</li>
+	<li><a href="mailto:info@maseno.ac.ke">info@maseno.ac.ke</a></li>
+</ul>
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+              
+                             <div class="footer-second col-xl-2 col-lg-2 col-md-12 col-sm-12 col-xs-12 column">
+                    <div>
+    <div id="block-campus" class="block block-block-content block-block-content1413ceea-9a2a-4c6b-85fe-725f7db43be3">
+  
+      <h2 class="block-title" ><span>Projects</span></h2>
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="clearfix">
+       <ul class="menu">
+<li><a href="https://egem.maseno.ac.ke/" target="blank">enGendering Mentorship (eGem)</a></li>
+  <li><a href="https://praectice.maseno.ac.ke/" target="blank">PrAEctice Project</a></li>
+ <li><a href="https://jicaafricsymp.maseno.ac.ke/" target="blank">Africa Symposium, Kenya</a></li>
+ <li><a href="https://kencorpus.maseno.ac.ke/" target="blank">Kenya Language Corpus (KenCorpus)</a></li>
+	  <li><a href="http://spade.maseno.ac.ke/" target="blank">SPADE</a></li>
+	  <li><a href=" http://aquaculture.maseno.ac.ke/" target="blank">Climate Smart Fish Culture Systems</a></li>
+          <li><a href="http://kisumuhotel.maseno.ac.ke/" target="blank">Kisumu Hotel</a></li>
+        <li><a href="http://cpc.maseno.ac.ke/" target="blank">Creating Postgraduate Collaboration</a></li>
+<li><a href="http://csdgh.maseno.ac.ke/" target="blank">Centre for Sustainable Development & Global Health</a></li>
+       </ul>      
+</div>   
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+              
+                              <div class="footer-third col-xl-3 col-lg-3 col-md-12 col-sm-12 col-xs-12 column">
+                    <div>
+    <div id="block-gavias-edupia-linkfooter" class="sidebar-left block block-block-content block-block-contentf68ff84d-6af0-4c49-8b85-ae338addc541">
+  
+      <h2 class="block-title" ><span>Quick Links</span></h2>
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="clearfix">
+       <ul class="menu">
+ <li><a href="https://www.maseno.ac.ke/maseno-23rd-graduation-dec-2023"  target="_blank">Graduation December 2023</a></li>
+ <li><a href="https://www.maseno.ac.ke/graduation-dec-2022"  target="_blank">Graduation December 2022</a></li>
+	  <li><a href="https://www.maseno.ac.ke/graduation-class-2021/"  target="_blank">Graduation April 2022</a></li>
+	  	  <li><a href="http://kisumuhotel.maseno.ac.ke/" target="_blank"> Kisumu Hotel</a></li>
+  <li><a href="https://equatorfm.maseno.ac.ke/" target="_blank"> Equator FM Radio: 98.1 FM</a></li>
+<li><a href="https://alumnivotesystem.maseno.ac.ke/" target="_blank"> Alumni Vote System</a></li>
+<li><a href="https://www.maseno.ac.ke/staff/" target="_blank"> Staff Information</a></li>
+<li><a href="https://www.maseno.ac.ke/sites/default/files/2024-07/Maseno%20Brochure%282%29.pdf" target="_blank"> Academic Programmes (PDF)</a></li>
+<li><a href="https://www.maseno.ac.ke/our-hostels" target="_blank"> Our Hostels</a></li>
+<li><a href="https://www.maseno.ac.ke/hostels-odera-akango-campus" target="_blank"> Odera Akang'o Hostels</a></li>
+       </ul>      
+</div>   
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+              
+                               <div class="footer-four col-xl-4 col-lg-4 col-md-12 col-sm-12 col-xs-12 column">
+                    <div>
+    <div id="block-footerinformation" class="block block-block-content block-block-contentd21a6bd2-b446-449d-bd52-ab88ca5b2c32">
+  
+      <h2 class="block-title" ><span>Resources</span></h2>
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="clearfix">
+<ul class="menu">
+	<li><a href="https://repository.maseno.ac.ke/" target="_blank">Institutional Repository</a></li>
+	<li><a href="https://programmes.maseno.ac.ke/" target="_blank">Academic Programmes</a></li>
+	<li><a href="http://journals.maseno.ac.ke/" target="_blank">University Journals</a></li>
+	<li><a href="https://qa.maseno.ac.ke/" target="_blank">Quality Assurance Directorate</a></li>
+	<li><a href="https://programmes.maseno.ac.ke/all_programmes">ALL Programmes</a></li>
+	<li><a href="/downloads">Downloads</a></li>
+	<li><a href="/maseno-journals">Maseno University Journal</a></li>
+</ul>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div> 
+                         </div>   
+        </div>
+    </div>  
+  </div>   
+
+      <div class="copyright">
+      <div class="container">
+        <div class="copyright-inner">
+              <div>
+    <div id="block-gavias-edupia-copyright" class="block block-block-content block-block-content61f17841-749f-436d-9799-1dfeefd7ad43 no-title">
+  
+    
+      <div class="content block-content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="text-center">
+© Copyright Maseno University  2025. All Rights Reserved. 
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+        </div>   
+      </div>   
+    </div>
+    <div id="gva-popup-ajax" class="clearfix"><div class="pajax-content"><a href="javascript:void(0);" class="btn-close"><i class="gv-icon-4"></i></a><div class="gva-popup-ajax-content clearfix"></div></div></div>
+</footer>
+
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_ZdL_UkULjBnmtGDnC4QUBBsaC3zi6XnGY384V6AZBoo.js"></script>
+
+    
+        
+  </body>
+</html>
