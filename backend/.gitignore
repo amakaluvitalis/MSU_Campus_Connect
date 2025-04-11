@@ -6,9 +6,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Ignore environment variables
-.env
-
 # Ignore database files (if using SQLite for testing)
 *.sqlite3
 
