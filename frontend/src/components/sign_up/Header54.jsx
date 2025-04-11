@@ -1,6 +1,8 @@
 "use client";
 
 import React from "react";
+import Sign_up from "../../images/sign_up.jpeg";
+
 
 export function Header54() {
   return (
@@ -18,7 +20,7 @@ export function Header54() {
       </div>
       <div className="absolute inset-0 z-0">
         <img
-          src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+          src={Sign_up}
           className="size-full object-cover"
           alt="Relume placeholder image"
         />
