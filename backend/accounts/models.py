@@ -1,3 +1,14 @@
+from django.contrib.auth.models import AbstractUser, Group
 from django.db import models
 
-# Create your models here.
+class CustomUser(AbstractUser):
+    ROLE_CHOICES = [
+        ('normal_user', 'Normal User'),
+        ('alumni', 'Alumni'),
+        ('event_organizer', 'Event Organizer'),
+        ('admin', 'Admin'),
+    ]
+    role = models.CharField(max_length=20, choices=ROLE_CHOICES, default='normal_user')
+
+    def __str__(self):
+        return self.username
