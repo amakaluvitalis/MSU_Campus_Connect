@@ -1,8 +1,9 @@
 "use client";
 
 import { Button } from "@relume_io/relume-ui";
+import React from "react";
+import Masenovedio from "../../videos/Maseno_University_Welcome_tour.mp4"
 import { Link } from "react-router-dom";
-import Masenovideo from "../../videos/A_Tour_of_Maseno_University.mp4";
 
 export function Header36() {
   return (
@@ -21,7 +22,7 @@ export function Header36() {
         </p>
         <div className="mt-6 flex flex-wrap gap-4 md:mt-8">
           <Button asChild>
-            <Link to="/About">Learn More</Link>
+           <Link to="/About">Learn More</Link>
           </Button>
 
           <Button asChild variant="secondary">
