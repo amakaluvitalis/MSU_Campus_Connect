@@ -25,6 +25,15 @@ export const theme = {
         },
     },
 
+    theme: {
+        extend: {
+          ringOffsetWidth: {
+            DEFAULT: '2px',
+          },
+        },
+      },
+      
+
     maxWidth: {
         xxs: "20rem", // 320px
         xs: "25rem", // 400px

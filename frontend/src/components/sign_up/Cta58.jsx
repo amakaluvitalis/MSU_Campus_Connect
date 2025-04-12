@@ -36,7 +36,7 @@ export function Cta58() {
           <div className="mx-auto mt-6 w-full max-w-sm md:mt-8">
             <form className="mb-4 grid max-w-sm grid-cols-1 gap-y-3 sm:grid-cols-[1fr_max-content] sm:gap-4">
               <Input id="email" type="email" placeholder="Your Email" />
-              <Button title="Sign Up">Sign Up</Button>
+              <Button title="Sign Up">Log in</Button>
             </form>
             <p className="text-xs">
               By clicking Sign Up, you confirm your agreement with our Terms and
