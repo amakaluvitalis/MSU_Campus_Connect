@@ -95,9 +95,9 @@ The backend serves as the core logic and data management layer, handling:
 
 ### **Database & ERD Design**
 
-* [ ] Design **Entity Relationship Diagram (ERD)**
-* [ ] Implement **PostgreSQL models**
-* [ ] Optimize with **indexes & JSON fields**
+* [X] Design **Entity Relationship Diagram (ERD)**
+* [X] Implement **PostgreSQL models**
+* [X] Optimize with **indexes & JSON fields**
 
 ### **Background Task Processing (Celery + Redis)**
 
