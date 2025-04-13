@@ -1,12 +1,14 @@
 import json
 from channels.generic.websocket import AsyncWebsocketConsumer
 
+# Handles real-time interactions for a specific event
 class EventConsumer(AsyncWebsocketConsumer):
+
     async def connect(self):
         self.event_id = self.scope['url_route']['kwargs']['event_id']
         self.group_name = f'event_{self.event_id}'
 
-        # Join event group
+        # Join group for this event
         await self.channel_layer.group_add(
             self.group_name,
             self.channel_name
@@ -15,7 +17,7 @@ class EventConsumer(AsyncWebsocketConsumer):
         await self.accept()
 
     async def disconnect(self, close_code):
-        # Leave event group
+        # Leave the event group
         await self.channel_layer.group_discard(
             self.group_name,
             self.channel_name
@@ -23,13 +25,13 @@ class EventConsumer(AsyncWebsocketConsumer):
 
     async def receive(self, text_data):
         """
-        Handle incoming messages from the WebSocket.
-        Example: a user RSVPs to the event
+        Handle incoming WebSocket message.
+        Can be used for RSVP or other event interactions.
         """
         data = json.loads(text_data)
         message_type = data.get("type")
 
-        # Broadcast the data to everyone in the group
+        # Broadcast message to all connected clients in this group
         await self.channel_layer.group_send(
             self.group_name,
             {
@@ -43,7 +45,7 @@ class EventConsumer(AsyncWebsocketConsumer):
 
     async def event_update(self, event):
         """
-        Called when a message is sent to the group.
+        Send update to WebSocket client.
         """
         await self.send(text_data=json.dumps({
             'type': event['update_type'],
