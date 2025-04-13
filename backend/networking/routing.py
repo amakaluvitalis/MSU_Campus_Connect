@@ -1,4 +1,4 @@
-# networking/routing.py
+# WebSocket URL routing for real-time chat
 from django.urls import re_path
 from . import consumers
 

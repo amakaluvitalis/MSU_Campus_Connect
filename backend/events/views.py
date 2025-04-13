@@ -1,6 +1,7 @@
 from rest_framework import viewsets, permissions
 from .models import Event
 from .serializers import EventSerializer
+from .tasks import send_event_notification
 
 class EventViewSet(viewsets.ModelViewSet):
     queryset = Event.objects.all()
@@ -8,4 +9,5 @@ class EventViewSet(viewsets.ModelViewSet):
     permission_classes = [permissions.IsAuthenticated]
 
     def perform_create(self, serializer):
-        serializer.save(creator=self.request.user)
+        event = serializer.save(creator=self.request.user)
+        send_event_notification.delay(event.id)

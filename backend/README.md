@@ -74,22 +74,22 @@ The backend serves as the core logic and data management layer, handling:
 
 ### **API Development**
 
-* [ ] Set up **Django REST Framework** (DRF)
+* [X] Set up **Django REST Framework** (DRF)
 
 ✅ Build CRUD endpoints for:
 
-* [ ] **User management** (register, login, profile updates)
-* [ ] **Event management** (create, update, delete, list)
-* [ ] **Networking** (friend requests, messaging)
-* [ ] **Campus navigation** (route suggestions, real-time tracking)
+* [X] **User management** (register, login, profile updates)
+* [X] **Event management** (create, update, delete, list)
+* [X] **Networking** (friend requests, messaging)
+* [X] **Campus navigation** (route suggestions, real-time tracking)
 
 ### **Real-Time Features**
 
 ✅ Integrate **Django Channels + WebSockets** for:
 
-* [ ] **Live event status updates**
-* [ ] **Real-time messaging (chat)**
-* [ ] **Live campus navigation tracking**
+* [X] **Live event status updates**
+* [X] **Real-time messaging (chat)**
+* [X] **Live campus navigation tracking**
 
   ✅ Use **Redis (via Docker)** for WebSocket communication
 
