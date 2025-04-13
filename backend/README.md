@@ -6,20 +6,20 @@
 
 ## **📌 Project Scope**
 
-The backend serves as the core logic and data management layer, handling:
+The backend handles core functionality including:
 
-* **User Authentication & Authorization** (JWT-based authentication)
-* **Event Management** (Creating, updating, and tracking events)
-* **Networking Features** (Real-time messaging, user interactions)
-* **Campus Navigation** (Live location tracking and route suggestions)
-* **RESTful API Development** (Django REST Framework for API endpoints)
-* **Real-time Updates** (Django Channels + WebSockets for live data updates)
-* **Database Management** (PostgreSQL for structured data storage)
-* **Caching & Background Tasks** (Redis for WebSockets, Celery for background tasks)
+- ✅ **User Authentication & Authorization** (JWT)
+- ✅ **Event Management** (CRUD, real-time updates)
+- ✅ **Networking Features** (Friend requests, chat via WebSockets)
+- ✅ **Campus Navigation** (Live location + route suggestions)
+- ✅ **Real-time APIs** (via Django Channels + Redis)
+- ✅ **Structured Data Storage** (PostgreSQL via Docker)
+- ✅ **Task Offloading** (Celery + Redis via Docker)
+- ✅ **API Documentation** (Swagger/OpenAPI)
 
 ---
 
-## **👨‍💻 Backend Contributor**
+## **👨‍💻 Contributor**
 
 | Name                      | Role              | Responsibilities                                                                            |
 | ------------------------- | ----------------- | ------------------------------------------------------------------------------------------- |
@@ -27,177 +27,85 @@ The backend serves as the core logic and data management layer, handling:
 
 ---
 
-## **🛠️ Backend Tech Stack**
+## **🛠️ Tech Stack**
 
-| Component                     | Technology Used                       |
-| ----------------------------- | ------------------------------------- |
-| **Language**            | Python 3.12.4                         |
-| **Framework**           | Django                                |
-| **Database**            | PostgreSQL                            |
-| **API**                 | Django REST Framework (DRF)           |
-| **Real-Time**           | Django Channels + WebSockets          |
-| **Caching**             | Redis (via Docker)                    |
-| **Task Queue**          | Celery + Redis                        |
-| **Authentication**      | JWT (Django REST Framework SimpleJWT) |
-| **Virtual Environment** | `ccvenv`(Python 3.12.4)             |
-| **Version Control**     | Git & GitHub                          |
-| **Documentation**       | OpenAPI (Swagger)                     |
-| **ERD Design**          | dbdiagram.io or DrawSQL               |
-
----
-
-## **📂 Backend Directory Structure**
-
-.backend/
-│── core/              # Main Django app (integrates all modules)
-│── events/            # Event management module
-│── networking/        # Networking and chat module
-│── navigation/        # Campus navigation module
-│── api/               # API endpoints
-│── static/            # Static files
-│── .env               # Environment variables
-│── manage.py          # Django project manager
-│── requirements.txt   # Backend dependencies
-│── docker-compose.yml # Docker setup for Redis & Celery
-│── .gitignore         # Git ignored files
-│── README.md          # Backend documentation
+| Component           | Tech                         |
+| ------------------- | ---------------------------- |
+| Language            | Python 3.12.4                |
+| Framework           | Django                       |
+| Database            | PostgreSQL (via Docker)      |
+| API                 | Django REST Framework        |
+| Real-Time           | Django Channels + WebSockets |
+| Caching             | Redis (via Docker)           |
+| Task Queue          | Celery + Redis (via Docker)  |
+| Authentication      | JWT (SimpleJWT)              |
+| Virtual Environment | `ccvenv` (Backend-only)    |
+| Version Control     | Git & GitHub                 |
+| API Docs            | Swagger / drf-yasg           |
 
 ---
 
-## **📝 List of Backend Tasks**
-
-### **Project Setup**
-
-* [X] Set up **Django** project and create `ccvenv` virtual environment
-* [X] Configure **PostgreSQL** as the database
-* [X] Implement **JWT authentication** (SimpleJWT)
-
-### **API Development**
-
-* [X] Set up **Django REST Framework** (DRF)
-
-✅ Build CRUD endpoints for:
-
-* [X] **User management** (register, login, profile updates)
-* [X] **Event management** (create, update, delete, list)
-* [X] **Networking** (friend requests, messaging)
-* [X] **Campus navigation** (route suggestions, real-time tracking)
-
-### **Real-Time Features**
-
-✅ Integrate **Django Channels + WebSockets** for:
-
-* [X] **Live event status updates**
-* [X] **Real-time messaging (chat)**
-* [X] **Live campus navigation tracking**
-
-  ✅ Use **Redis (via Docker)** for WebSocket communication
-
-### **Database & ERD Design**
-
-* [X] Design **Entity Relationship Diagram (ERD)**
-* [X] Implement **PostgreSQL models**
-* [X] Optimize with **indexes & JSON fields**
-
-### **Background Task Processing (Celery + Redis)**
-
-✅ **Set up Celery with Redis for background task processing**
-
-Why is Celery necessary?
-
-* **Asynchronous Task Execution:** Tasks like sending notifications, processing event updates, and handling background jobs will run in the background without blocking user interactions.
-* **Scalability:** Celery allows the application to scale by distributing workload across multiple workers.
-* **Improved Performance:** Offloading heavy tasks to Celery prevents slow API responses and enhances user experience.
-
-#### **Steps to Set Up Celery**
-
-1️⃣  **Install Celery & Redis** :
+## **📁 Project Structure**
 
 ```bash
-pip install celery redis
-```
-
-2️⃣  **Update `core/settings.py`** :
-
-```python
-CELERY_BROKER_URL = "redis://localhost:6379/0"
-CELERY_ACCEPT_CONTENT = ["json"]
-CELERY_TASK_SERIALIZER = "json"
-```
-
-3️⃣  **Create `celery.py` in `core` Django app** :
-
-```python
-from __future__ import absolute_import, unicode_literals
-import os
-from celery import Celery
-
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "core.settings")
-
-app = Celery("core")
-app.config_from_object("django.conf:settings", namespace="CELERY")
-app.autodiscover_tasks()
-```
-
-4️⃣  **Define a Sample Celery Task (`tasks.py` in any app, e.g., `events`)** :
-
-```python
-from celery import shared_task
-
-@shared_task
-def test_task():
-    return "Celery is working!"
-```
-
-5️⃣  **Run Celery Worker (if not using Docker)** :
-
-```bash
-celery -A core worker --loglevel=info
-```
+backend/
+├── core/                   # Django main app
+├── events/                 # Events module
+├── networking/             # Messaging & networking
+├── navigation/             # Campus navigation module
+├── accounts/               # Custom user model, roles
+├── api/                    # API routing layer
+├── static/                 # Swagger UI + other static files
+├── manage.py               # Django CLI
+├── requirements.txt        # Python dependencies
+├── docker-compose.yml      # Docker multi-service config
+├── .env                    # Env variables (SECRET_KEY, DB, etc.)
+└── README.md               # This file
 
 ---
 
-## **🚀 Running Redis & Celery with Docker**
+## **Setup Instructions (DOCKER FIRST)**
 
-### **Updated `docker-compose.yml`**
+### **Step 1: Navigate to the Backend Directory**
 
-```yaml
-version: '3.8'
+Make sure you're in the project’s **backend folder**:
 
-services:
-  redis:
-    image: redis:latest
-    container_name: redis-server
-    restart: always
-    ports:
-      - "6379:6379"
-
-  celery:
-    build: .
-    container_name: celery-worker
-    restart: always
-    depends_on:
-      - redis
-    environment:
-      - CELERY_BROKER_URL=redis://redis:6379/0
-      - CELERY_RESULT_BACKEND=redis://redis:6379/0
-    command: celery -A core worker --loglevel=info
-
-  django:
-    build: .
-    container_name: django-backend
-    restart: always
-    depends_on:
-      - redis
-      - celery
-    ports:
-      - "8000:8000"
-    environment:
-      - DATABASE_URL=postgres://your_postgres_user:your_password@db:5432/msu_campus_connect
-      - REDIS_URL=redis://redis:6379/0
+```bash
+cd backend
 ```
 
-### **Start Redis & Celery with Docker**
+### **Step 2: Ensure You Are in the Python Virtual Environment**
+
+This applies **only for backend development** (not Docker). Activate the environment:
+
+```bash
+source ccvenv/Scripts/activate  # Windows Git Bash
+# OR
+source ccvenv/bin/activate      # macOS/Linux
+```
+
+📌 **Note:** This `ccvenv` is just for development (e.g., linting, running Django manually). You **don’t need to install anything manually** like `pip install -r requirements.txt` when using Docker.
+
+---
+
+## **Running Backend with Docker**
+
+The Docker setup automatically:
+
+- Installs Python dependencies from `requirements.txt`
+- Starts PostgreSQL + Redis + Django + Celery
+- Makes Swagger UI and all endpoints available
+
+---
+
+### **Build and Start the Project**
+
+```bash
+docker-compose build      # Only the first time or when Dockerfile changes
+docker-compose up         # Start all services in the foreground
+```
+
+Or run in background:
 
 ```bash
 docker-compose up -d
@@ -205,48 +113,92 @@ docker-compose up -d
 
 ---
 
-## **⚡ Running the Django Server**
-
-Run the development server:
+### **Stopping the Project**
 
 ```bash
-python manage.py runserver
+docker-compose down
 ```
-
-By default, the backend will be available at:
-
-📍 **[http://127.0.0.1:8000/](http://127.0.0.1:8000/)**
 
 ---
 
-## **📌 API Documentation (Swagger)**
+## **Backend Access**
 
-To install and generate Swagger API documentation:
+Once running, access the backend at:
 
-```bash
-pip install drf-yasg
+📍 http://localhost:8000/
+
+📍 Swagger Docs → http://localhost:8000/swagger/
+
+---
+
+## **📖 API Documentation (Swagger)**
+
+We use **drf-yasg** to serve Swagger UI.
+
+Swagger includes:
+
+- All backend API routes
+- Input/output schemas
+- Live testing capabilities
+
+No setup required when using Docker. Just visit:
+
+📍 http://localhost:8000/swagger/
+
+---
+
+## **Docker Services Breakdown**
+
+```yaml
+services:
+  db:                    # PostgreSQL
+    image: postgres:14
+    ports: ["5432:5432"]
+    environment:
+      POSTGRES_DB: campusconnect
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+
+  redis:                 # Redis server
+    image: redis:latest
+    container_name: redis-server
+    ports: ["6379:6379"]
+
+  web:                   # Django via Daphne
+    build: .
+    command: daphne -b 0.0.0.0 -p 8000 core.asgi:application
+    volumes:
+      - .:/code
+    ports: ["8000:8000"]
+    depends_on:
+      - db
+    env_file:
+      - .env
+
+  celery:                # Celery background worker
+    build: .
+    command: celery -A core worker --loglevel=info
+    volumes:
+      - .:/code
+    depends_on:
+      - db
+      - redis
+    env_file:
+      - .env
 ```
 
-Add this to `urls.py`:
+---
 
-```python
-from drf_yasg.views import get_schema_view
-from drf_yasg import openapi
-from rest_framework.permissions import AllowAny
+## **🧪 Development Tips**
 
-schema_view = get_schema_view(
-    openapi.Info(
-        title="MSU Campus Connect API",
-        default_version="v1",
-        description="API documentation for the backend",
-    ),
-    public=True,
-    permission_classes=(AllowAny,),
-)
+- Always activate `ccvenv` before running Django manually (`python manage.py runserver`)
+- Don’t install PostgreSQL locally — Docker handles that
+- Don’t install backend dependencies — Docker installs them from `requirements.txt`
 
-urlpatterns += [
-    path('swagger/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),
-]
+---
+
+Made with ❤️ by Amakalu Vitalis
+
 ```
 
-Visit **`http://127.0.0.1:8000/swagger/`** to view API documentation.
+```
