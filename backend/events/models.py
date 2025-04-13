@@ -1,6 +1,7 @@
 from django.db import models
 from django.conf import settings
 
+# Stores event details and references the user who created the event
 class Event(models.Model):
     creator = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name="events")
     title = models.CharField(max_length=255)
