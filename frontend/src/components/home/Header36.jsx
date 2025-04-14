@@ -1,8 +1,8 @@
 "use client";
 
 import { Button } from "@relume_io/relume-ui";
-import React from "react";
-// import Masenovedio from "../../videos/Maseno_university_Welcome_tour.mp4"
+import { Link } from "react-router-dom";
+import Masenovideo from "../../videos/A_Tour_of_Maseno_University.mp4";
 
 export function Header36() {
   return (
@@ -14,7 +14,7 @@ export function Header36() {
         <h1 className="mb-5 text-6xl font-bold md:mb-6 md:text-9xl lg:text-10xl">
           Connect, Engage, and Thrive at Maseno University
         </h1>
-        <p className="md:text-md">
+        <p className="md:text-md">Masenovideo
           Campus Connect is your all-in-one platform for enhancing campus life.
           Discover events, network with peers, and navigate the campus
           effortlessly.
@@ -38,7 +38,7 @@ export function Header36() {
           muted
           controls
         >
-          <source src={Masenovedio} type="video/mp4" />
+          <source src={Masenovideo} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
