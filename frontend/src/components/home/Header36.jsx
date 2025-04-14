@@ -2,7 +2,7 @@
 
 import { Button } from "@relume_io/relume-ui";
 import React from "react";
-import Masenovedio from "../../videos/Maseno_University_Welcome_tour.mp4"
+//import Masenovedio from "../../videos/Maseno_University_Welcome_tour.mp4"
 import { Link } from "react-router-dom";
 
 export function Header36() {
@@ -39,7 +39,7 @@ export function Header36() {
           muted
           controls
         >
-          <source src={Masenovideo} type="video/mp4" />
+          <source type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>

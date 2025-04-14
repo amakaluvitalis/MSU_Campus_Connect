@@ -1,4 +1,9 @@
+export default App;
+
+
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Toaster } from "react-hot-toast";
+
 import { Toaster } from "react-hot-toast";
 
 import Home from "./pages/home";
@@ -37,9 +42,6 @@ import "./App.css";
 function App() {
   return (
     <Router>
-       {/* 🔔 Toast notifications */}
-        <Toaster position="top-right" reverseOrder={false} />
-
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
