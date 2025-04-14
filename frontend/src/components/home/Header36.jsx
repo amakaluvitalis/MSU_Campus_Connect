@@ -2,7 +2,7 @@
 
 import { Button } from "@relume_io/relume-ui";
 import React from "react";
-import Masenovedio from "../../vedios/Maseno_university_Welcome_tour.mp4"
+// import Masenovedio from "../../videos/Maseno_university_Welcome_tour.mp4"
 
 export function Header36() {
   return (
