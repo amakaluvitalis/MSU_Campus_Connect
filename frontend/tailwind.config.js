@@ -1,4 +1,6 @@
 /** @type {import('tailwindcss').Config} */
+import colors from 'tailwindcss/colors';
+
 
 export const content = [
     "./src/**/*.{js,ts,jsx,tsx,mdx}",
@@ -22,6 +24,15 @@ export const theme = {
             xl: "1280px",
         },
     },
+
+    theme: {
+        extend: {
+          ringOffsetWidth: {
+            DEFAULT: '2px',
+          },
+        },
+      },
+      
 
     maxWidth: {
         xxs: "20rem", // 320px
@@ -97,60 +108,63 @@ export const theme = {
         },
 
         colors: {
+            ...colors, // ← this brings back all of Tailwind’s default colors
+          
             brand: {
-                black: "#000000",
-                white: "#ffffff",
+              black: "#000000",
+              white: "#ffffff",
             },
             neutral: {
-                DEFAULT: "#666666",
-                black: "#000000",
-                white: "#ffffff",
-                lightest: "#eeeeee",
-                lighter: "#cccccc",
-                light: "#aaaaaa",
-                dark: "#444444",
-                darker: "#222222",
-                darkest: "#111111",
+              DEFAULT: "#666666",
+              black: "#000000",
+              white: "#ffffff",
+              lightest: "#eeeeee",
+              lighter: "#cccccc",
+              light: "#aaaaaa",
+              dark: "#444444",
+              darker: "#222222",
+              darkest: "#111111",
             },
             system: {
-                "success-green": "#027a48",
-                "success-green-light": "#ecfdf3",
-                "error-red": "#b42318",
-                "error-red-light": "#fef3f2",
+              "success-green": "#027a48",
+              "success-green-light": "#ecfdf3",
+              "error-red": "#b42318",
+              "error-red-light": "#fef3f2",
             },
             background: {
-                DEFAULT: "#ffffff", // bg-background, text-background, border-background,
-                primary: "#ffffff", // bg-background-primary, text-background-primary, border-background-primary,
-                secondary: "#eeeeee",
-                tertiary: "#666666",
-                alternative: "#000000",
-                success: "#ecfdf3",
-                error: "#fef3f2",
+              DEFAULT: "#ffffff",
+              primary: "#ffffff",
+              secondary: "#eeeeee",
+              tertiary: "#666666",
+              alternative: "#000000",
+              success: "#ecfdf3",
+              error: "#fef3f2",
             },
             border: {
-                DEFAULT: "#000000",
-                primary: "#000000",
-                secondary: "#aaaaaa",
-                tertiary: "#444444",
-                alternative: "#ffffff",
-                success: "#027a48",
-                error: "#b42318",
+              DEFAULT: "#000000",
+              primary: "#000000",
+              secondary: "#aaaaaa",
+              tertiary: "#444444",
+              alternative: "#ffffff",
+              success: "#027a48",
+              error: "#b42318",
             },
             text: {
-                DEFAULT: "#000000",
-                primary: "#000000",
-                secondary: "#aaaaaa",
-                alternative: "#ffffff",
-                success: "#027a48",
-                error: "#b42318",
+              DEFAULT: "#000000",
+              primary: "#000000",
+              secondary: "#aaaaaa",
+              alternative: "#ffffff",
+              success: "#027a48",
+              error: "#b42318",
             },
             link: {
-                DEFAULT: "#000000",
-                primary: "#000000",
-                secondary: "#666666",
-                alternative: "#ffffff",
+              DEFAULT: "#000000",
+              primary: "#000000",
+              secondary: "#666666",
+              alternative: "#ffffff",
             },
-        },
+          },
+          
 
         typography: (theme) => ({
             DEFAULT: {
