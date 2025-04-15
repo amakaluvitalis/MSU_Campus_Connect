@@ -108,19 +108,19 @@ export function Navbar5() {
             className="overflow-auto px-[5%] lg:ml-6 lg:flex lg:items-center lg:px-0 lg:[--height-closed:auto] lg:[--height-open:auto]"
           >
             <a
-              href="#"
+              href="/event_details"
               className="block py-3 text-md first:pt-7 lg:px-4 lg:py-6 lg:text-base first:lg:pt-6"
             >
               Events Hub
             </a>
             <a
-              href="#"
+              href="/networking_and_profiles"
               className="block py-3 text-md first:pt-7 lg:px-4 lg:py-6 lg:text-base first:lg:pt-6"
             >
               Networking Zone
             </a>
             <a
-              href="#"
+              href="/campus_navigation"
               className="block py-3 text-md first:pt-7 lg:px-4 lg:py-6 lg:text-base first:lg:pt-6"
             >
               Campus Map
@@ -154,7 +154,7 @@ export function Navbar5() {
                   },
                   close: {
                     visibility: "hidden",
-                    opacity: "0",
+                    opacity: "0.6956",
                     height: "var(--height-close, 0)",
                   },
                 }}
@@ -172,7 +172,7 @@ export function Navbar5() {
                           Explore More
                         </h4>
                         <a
-                          href="#"
+                          href="/"
                           className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2"
                         >
                           <div className="flex size-6 flex-col items-center justify-center">
@@ -189,7 +189,7 @@ export function Navbar5() {
                           </div>
                         </a>
                         <a
-                          href="#"
+                          href="/messaging"
                           className="grid w-full grid-cols-[max-content_1fr] items-start gap-x-3 py-2"
                         >
                           <div className="flex size-6 flex-col items-center justify-center">
