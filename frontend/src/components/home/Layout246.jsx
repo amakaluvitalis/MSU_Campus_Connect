@@ -3,6 +3,8 @@
 import { Button } from "@relume_io/relume-ui";
 import React from "react";
 import { RxChevronRight } from "react-icons/rx";
+import { Link } from "react-router-dom";
+
 
 
 export function Layout246() {
@@ -43,9 +45,12 @@ export function Layout246() {
               interests.
             </p>
             <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
+            <Link to="/event_details">
               <Button iconRight={<RxChevronRight />} variant="link" size="link">
                 Learn More
               </Button>
+            </Link>
+
             </div>
           </div>
           <div>
@@ -64,9 +69,12 @@ export function Layout246() {
               passions.
             </p>
             <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
+            <Link to="/sign_up">
               <Button iconRight={<RxChevronRight />} variant="link" size="link">
                 Sign Up
               </Button>
+            </Link>
+
             </div>
           </div>
           <div>
@@ -85,9 +93,12 @@ export function Layout246() {
               locations.
             </p>
             <div className="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
+            <Link to="/campus_navigation">
               <Button iconRight={<RxChevronRight />} variant="link" size="link">
                 Explore
               </Button>
+            </Link>
+
             </div>
           </div>
         </div>
