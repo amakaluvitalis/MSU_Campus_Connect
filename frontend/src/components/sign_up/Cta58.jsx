@@ -3,8 +3,15 @@
 import { Button, Input } from "@relume_io/relume-ui";
 import { motion } from "framer-motion";
 import React from "react";
+import { useNavigate } from "react-router-dom"; 
 
 export function Cta58() {
+  const navigate = useNavigate(); 
+
+  const handleLoginClick = () => {
+    navigate("/login"); 
+  };
+
   return (
     <section id="relume" className="px-[5%] py-16 md:py-24 lg:py-28">
       <div className="container">
@@ -34,7 +41,13 @@ export function Cta58() {
             features.
           </p>
           <div className="mx-auto mt-6 w-full max-w-sm md:mt-8">
-            <form className="mb-4 grid max-w-sm grid-cols-1 gap-y-3 sm:grid-cols-[1fr_max-content] sm:gap-4">
+            <form
+              onSubmit={(e) => {
+                e.preventDefault();
+                handleLoginClick();
+              }}
+              className="mb-4 grid max-w-sm grid-cols-1 gap-y-3 sm:grid-cols-[1fr_max-content] sm:gap-4"
+            >
               <Input id="email" type="email" placeholder="Your Email" />
               <Button title="Sign Up">Log in</Button>
             </form>

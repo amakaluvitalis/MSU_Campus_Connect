@@ -47,7 +47,7 @@ export function Navbar5() {
       <div className="size-full lg:flex lg:items-center lg:justify-between">
         <div className="lg:flex">
           <div className="flex min-h-16 items-center justify-between px-[5%] md:min-h-18 lg:min-h-full lg:px-0">
-            <a href="#">
+            <a href="/">
               <img
                 src="https://d22po4pjz3o32e.cloudfront.net/logo-image.svg"
                 alt="Logo image"
