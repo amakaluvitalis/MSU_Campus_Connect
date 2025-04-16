@@ -27,9 +27,8 @@ const Loader = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-white">
+    <div className="flex flex-col items-center justify-center h-screen">
       <div className="flex gap-1 mb-4">{renderDots()}</div>
-      <p className="text-blue-500 font-semibold text-xl animate-pulse">Loading Campus Connect...</p>
     </div>
   );
 };
