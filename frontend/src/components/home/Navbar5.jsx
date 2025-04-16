@@ -9,7 +9,7 @@ export function Navbar5() {
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="text-xl font-bold">Campus Connect</Link>
         <div className="hidden lg:flex gap-4">
-          <Link to="/event_management" className="hover:text-gray-400">Events</Link>
+          <Link to="/event_details" className="hover:text-gray-400">Events</Link>
           <Link to="/alumni_engagement" className="hover:text-gray-400">Networking</Link>
           <Link to="/campus_navigation" className="hover:text-gray-400">Map</Link>
         </div>
