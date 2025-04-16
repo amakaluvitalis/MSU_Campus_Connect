@@ -15,7 +15,7 @@ export function Header36() {
         <h1 className="mb-5 text-6xl font-bold md:mb-6 md:text-9xl lg:text-10xl">
           Connect, Engage, and Thrive at Maseno University
         </h1>
-        <p className="md:text-md">Masenovideo
+        <p className="md:text-md">
           Campus Connect is your all-in-one platform for enhancing campus life.
           Discover events, network with peers, and navigate the campus
           effortlessly.
