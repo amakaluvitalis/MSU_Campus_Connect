@@ -3,8 +3,9 @@ import colors from 'tailwindcss/colors';
 
 
 export const content = [
-    "./src/**/*.{js,ts,jsx,tsx,mdx}",
-    "./app/**/*.{js,ts,jsx,tsx,mdx}", 
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx,vue,mdx}",
+    
 ];
 export const theme = {
     screens: {

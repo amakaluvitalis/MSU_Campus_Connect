@@ -69,7 +69,7 @@ export function Navbar5() {
           <div className="flex min-h-16 items-center justify-between px-[5%] md:min-h-18 lg:min-h-full lg:px-0">
             <a href="/">
               <img
-                src="https://github.com/amakaluvitalis/MSU_Campus_Connect/blob/main/frontend/src/assets/cc-logo.svg"
+                src="https://d22po4pjz3o32e.cloudfront.net/logo-image.svg"
                 alt="Logo image"
               />
             </a>
